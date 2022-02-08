@@ -1,6 +1,6 @@
 # Databases COMP0178
 
-The following is a group project for the COMP0178 Databases at UCL. This particular task will aim to create a database with a website on MAMP for students to auction their items.\
+The following is a group project for the COMP0178 Databases at UCL. This particular task will aim to create a database with a website on MAMP for students to auction their items.The final grade of this coursework was 75, a distinction classification.\
 Each group will build a functioning database system that achieves the capability requirements set out below:
 1. Users can register with the system and create accounts. Users have roles of seller or buyer with different privileges.
 2. Sellers can create auctions for particular items, setting suitable conditions and features of the items including the item description, categorisation, starting price, reserve price and end date.
